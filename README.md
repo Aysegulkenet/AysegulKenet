@@ -47,10 +47,16 @@
 <h2 align="center">:zap: Stats :zap:</h2>
 <br>
 <div align=center>
- <img width="390" height="200" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=tugcese&count_private=true&theme=react&border_radius=10" alt="streak stats" style="padding: 10px;">
- <img width=390 height="200" src="https://github-readme-stats-salesp07.vercel.app/api?username=tugcese&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" style="padding: 10px;" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=tugcese&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+![](https://komarev.com/ghpvc/?username=AysegülKenet)
+<img
+src="https://github-readme-stats.vercel.app/api?username=Aysegül&theme=chartreuse-dark
+" alt="my github stats" width="49%"/>
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=Aysegül&theme=chartreuse-d
+ark" alt="my commit status" width="49%" />
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aysegül&theme=chartr
+euse-dark&layout=compact" alt="languages" width="50%">
 </div>
 <br/><br/>
 </div>
