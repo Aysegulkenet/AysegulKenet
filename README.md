@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Thanks for checking my profile!</h1>
+<h1> Thanks for checking my profile!</h1>
 <p>Welcome to my page! </br> I'm Aysegül, Data Scientist 
 <h3>Things I analyse with</h3>
 <p>
