@@ -1,10 +1,8 @@
 ## Hi there 👋
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Thanks for checking my profile!</h1>
-
+<p>Welcome to my page! </br> I'm Aysegül, Data Scientist 
 ![](https://komarev.com/ghpvc/?username=tugcese&style=for-the-badge&color=blue)
-
-<p>Welcome to my page! </br> I'm Aysegül, Data Scientist from <img src="subway.png" width="30" height="30" style="vertical-align:center"/> 
 <h3>Things I analyse with</h3>
 <p>
  
