@@ -47,7 +47,6 @@
 <h2 align="center">:zap: Stats :zap:</h2>
 <br>
 <div align=center>
-![](https://komarev.com/ghpvc/?username=AysegülKenet)
 <img
 src="https://github-readme-stats.vercel.app/api?username=Aysegül&theme=chartreuse-dark
 " alt="my github stats" width="49%"/>
