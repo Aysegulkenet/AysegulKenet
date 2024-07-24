@@ -38,11 +38,8 @@
   <a href="mailto:aysegulkenet@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/tugce-s-415a94222/" target="_blank">
+  <a href="https://www.linkedin.com/in/aysegulkenet/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://public.tableau.com/app/profile/tugce.selimoglu/vizzes" target="_blank">
-     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 </div>
