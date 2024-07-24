@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 💬  Ask me about: Anything!
 - 📫  How to reach me: 
 
-## :man::woman: Social
+## Social
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aysegülkenet/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:aysegülkenet@gmail.com)
 
