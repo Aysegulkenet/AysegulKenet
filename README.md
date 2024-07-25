@@ -77,6 +77,6 @@ Here are some ideas to get you started:
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=AysegulKenet&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aysegul&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aysegul&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+<p align="center"> <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Aysegul&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 <!---
 **Aysegül/Aysegül** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
