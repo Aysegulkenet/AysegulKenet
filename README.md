@@ -76,9 +76,8 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" alt="jpyter" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="28"/> </a> 
 </p>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=AysegulKenet&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aysegul&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aysegulkenet&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" ></p>
-<!---
-**Aysegül/Aysegül** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+| <a href="https://github.com/Aysegulkenet/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aysegulkenet&show_icons=true&include_all_commits=true&theme=tortilla_border=true" alt="Aysegul's github stats" /></a> | <a href="https://github.com/Aysegulkenet/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aysegulkenet&layout=compact&theme=tortilla_border=true" /></a> |
+| ------------- | ------------- |
+
+
